@@ -1,0 +1,5 @@
+1.For any case, if index page will not work  please first run login.py. (Example username: User, Password: 123)
+
+2. There is form for uploading books which uses js -file. After uploading of both text and image files form should appear in Chrome browser. If it is Firefox , please press "Refresh" button in your browser.
+
+
